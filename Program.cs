@@ -1,9 +1,12 @@
-﻿string correctAnswer = "Book";
+﻿
+
+
+
+string correctAnswer = "Book";
 int fails = 0;
 Console.WriteLine("Assalomu alaykum, Hangman o'yiniga xush kelibsiz!");
 Console.WriteLine("Sizga savol beriladi va siz ularga javob topish orqali");
 Console.WriteLine("yashiringan so'zni topishingiz kerak bo'ladi\n");
-
 Console.WriteLine("\"----\" ko'rinishidagi so'zni topishingiz kerak bo'ladi");
 Console.WriteLine("Qani unda boshladik!\n");
 Thread.Sleep(3000);
